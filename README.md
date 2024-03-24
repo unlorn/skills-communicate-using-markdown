@@ -42,7 +42,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 ```
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
